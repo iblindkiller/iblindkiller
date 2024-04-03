@@ -1,4 +1,1 @@
-## Hi there 👋
-### I code Websites, AI models, Discord bots (API Dev), Js/Ts projects.
-
-(a new account since that one was deleted)
+[![Discord Presence](https://lanyard.cnrad.dev/api/455291940943167488)](https://discord.com/users/455291940943167488)
