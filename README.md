@@ -1,5 +1,5 @@
-## Software Developer & Admin @DevLabs.
-### Experienced: React.js and Node.js
+## Current project: VOLT-BOT (Discord)
+### Experiences: JavaScript, Python, Lua, HTML&CSS
 
   <p align="center">
     <a href="https://github.com/iblindkiller/iblindkiller/actions">
